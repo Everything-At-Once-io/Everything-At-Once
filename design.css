@@ -256,15 +256,4 @@ section .container > *{
     color: white;
   }
 
-  #login {
-    width: 5px;
-    font-family: 'poppins';
-    overflow: hidden;
-    text-align: center;
-    background-color: #333;
-    float: left;
-    color: #1171e0;
-    text-align: center;
-    padding: 2px 4px;
-    text-decoration: none;
-    font-size: 17px;
+  
